@@ -1,4 +1,18 @@
-## Hi there 👋
+
+# Nipin P N
+
+🎮 Game Developer at [NipsApp Studios](https://nipsapp.com)  
+🌐 Website | [Blog](https://nipsapp.com/blog-and-articles/) | [LinkedIn](https://www.linkedin.com/in/nipsappstudios/) | [Stack Overflow](https://stackoverflow.com/users/637453/nipin-p-n)
+
+💼 Currently working as: Unity Game Developer at [NipsApp](https://nipsapp.com)
+
+Things I love:
+
+💻 Game Programming  
+🕶️ Virtual Reality  
+🟢 Unity3D / C#  
+🎨 Game Art & Animation  
+⌨️ Clean Code & Optimization
 
 <!--
 **nipsapp/nipsapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
