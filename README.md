@@ -4,7 +4,7 @@
 🎮 Game Developer at [NipsApp Studios](https://nipsapp.com)  
 🌐 Website | [Blog](https://nipsapp.com/blog-and-articles/) | [LinkedIn](https://www.linkedin.com/in/nipsappstudios/) | [Stack Overflow](https://stackoverflow.com/users/637453/nipin-p-n)
 
-💼 Currently working as: Unity Game Developer at [NipsApp](https://nipsapp.com)
+💼 Currently working as: Unity Game Developer
 
 Things I love:
 
