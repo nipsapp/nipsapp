@@ -14,17 +14,28 @@ Things I love:
 🎨 Game Art & Animation  
 ⌨️ Clean Code & Optimization
 
-<!--
-**nipsapp/nipsapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Game developer with experience in building interactive 3D applications, simulations, and games using Unity and Unreal Engine. Focus areas include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- VR and AR development for training, entertainment, and education
+- Real-time 3D modeling and animation workflows
+- Multiplayer game mechanics and gameplay systems
+- Unity (C#), Unreal Engine (Blueprints/C++), and cross-platform deployment
+- Optimized asset integration, performance tuning, and clean architecture
+
+### Tools & Technologies
+- Unity3D / C#
+- Unreal Engine
+- Blender, Substance Painter
+- Photon, Mirror, Web3.js (for multiplayer and blockchain integration)
+- Git, GitHub Actions
+
+### Interests
+- Virtual Reality (VR) in industrial and arcade environments
+- Simulation design for safety, defense, and technical training
+- Exploring AI tools in game logic, NPC behavior, and content generation
+
+📫 More information:
+- Portfolio: [nipsapp.com](https://nipsapp.com)
+- Blog: [nipsapp.com/blog]([https://nipsapp.com/blog](https://nipsapp.com/blog-and-articles/)
+- LinkedIn: [linkedin.com/in/nipsappstudios]([https://linkedin.com/in/nipsappstudios](https://www.linkedin.com/in/nipsappstudios/)
