@@ -39,3 +39,4 @@ Game developer with experience in building interactive 3D applications, simulati
 - Portfolio: [nipsapp.com](https://nipsapp.com)
 - Blog: [nipsapp.com/blog]([https://nipsapp.com/blog](https://nipsapp.com/blog-and-articles/)
 - LinkedIn: [linkedin.com/in/nipsappstudios]([https://linkedin.com/in/nipsappstudios](https://www.linkedin.com/in/nipsappstudios/)
+- About Me: [about.me/nipsapp](https://about.me/nipsapp)
